@@ -14,10 +14,7 @@ Ce projet est un TP de développement mobile cross-platform avec Flutter, réali
 - Affichage conditionnel.
 
 ## Captures d'écran
-
-![image](https://github.com/DH-HUB/pomme_poire_ananas/assets/60735833/81c8fc9d-54be-42a7-af58-7b1604fb5c55)
-
-
+![Alt text](image.png)
 ## Fonctionnalités
 
 - Affichage d'une liste verticale scrollable.
